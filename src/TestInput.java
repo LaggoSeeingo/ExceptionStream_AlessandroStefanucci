@@ -7,6 +7,9 @@
  *
  * @author Alessandro Stefanucci
  */
+
+import java.util.Scanner;
+
 public class TestInput {
     
 }
