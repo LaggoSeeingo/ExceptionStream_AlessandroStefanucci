@@ -14,7 +14,7 @@ import java.util.Scanner;
 public class TestException {
 
     
-    public static void testNumberFormatException(String[] args) {
+    public static void testNumberFormatException() {
         
 	Scanner in = new Scanner(System.in);
 		System.out.println("Digita un intero:");
